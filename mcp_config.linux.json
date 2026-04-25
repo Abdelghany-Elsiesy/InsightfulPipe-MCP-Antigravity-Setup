@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "insightfulpipe": {
+            "command": "/usr/bin/npx",
+            "args": [
+                "mcp-remote",
+                "https://main.insightfulmcp.com"
+            ],
+            "env": {
+                "PATH": "/usr/local/bin:/usr/bin:/bin"
+            }
+        }
+    }
+}
