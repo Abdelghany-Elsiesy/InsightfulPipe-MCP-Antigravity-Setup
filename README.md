@@ -12,7 +12,7 @@ MCP server configuration for connecting Antigravity to InsightfulPipe.
 
    | OS | File |
    |---|---|
-   | macOS | [`mcp_config.macos.json`](./mcp_config.macos.json) |
+   | macOS | [`mcp_config.macos.json`](./mcp_config.json) |
    | Windows | [`mcp_config.windows.json`](./mcp_config.windows.json) |
    | Linux | [`mcp_config.linux.json`](./mcp_config.linux.json) |
 
